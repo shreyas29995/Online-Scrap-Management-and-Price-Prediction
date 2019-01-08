@@ -1,0 +1,2 @@
+# Online-Scrap-Management-and-Price-Prediction
+SCRAPP- A MarketPlace for Scrap and Tangible Waste is an Android application that typically runs the server, and allows the customers to do things such as searching for scrap/waste materials in the catalog, adding a selected product to a basket and placing an order for it. Once a particular product has been found then the seller gets interacted with the buyer by this application.
